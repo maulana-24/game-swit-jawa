@@ -1,0 +1,36 @@
+PERANCANGAN PEMBUATAN APP GAME SUWIT JAWA
+
+-> Suwit Jawa adalah subuah game/permainan tradisional yang di mainkan 
+    oleh > 1 orang, yang di gunakan untuk mencari pemenang dalam permainan
+
+    "Membuat Applikasi Game suwit jawa sederhana versi 1 dengan menggunakan bahasa pemrograman python yang berbasis terminal;"
+
+-> Tujuan membuat applikasi game suwit jawa  
+    => mempunyai 3 kesempatan untuk bertarung dengan komputer dan jika kita menang kita dapat hadiah or kalah kita dapat hukuman
+
+-> Cara bermain / aturan game suwit jawa
+    => game suwit jawa mempunyai bidak / pion ( semut, gajah dan orang )
+    => game suwit jawa hanya dapat mainkan oleh 1 orang yang lawanya adalah komputer
+    => kita hanya di beri 3 kesempatan untuk dapat mengalahkan komputer
+    => jika komputer menang 2 kali dan kita kalah 1 kali, maka komputer menang, dan sebaliknya
+    => jika kita menang kita dapat hadiah dan jika kita kalah kita dapat hukuman
+    => hadian dan hukuman akan di beri oleh komputer
+    => kita dapat bermain lagi / mengulanginya.
+
+Yang di perlukan : 
+1. membangkitkan bill random dan membaginya menjadi 3 dan menamainaya satu persatu (semut,gajah, dan orang) dan  di gunakan untuk pion komputer
+1.1 membuat inputan untuk user yang di gunakan untuk melawan komputer pilihanya ( semut, gajah dan orang )
+2. membuat 3 kesempatan untuk user
+3. membuat isi macam2 hukuman dan hadiah, dan mengacak isinya untuk di berikan kepada user hukuman[kalah] atau hadian[menang]
+4. memberikan user pengulangan, jika user ingin mengulang game nya.
+
+yang di butuhkan :
+fungsi membangkitkan bill random dan cara membaginya
+mencari cara membuat 3 kesempatan dan pada setiap kesempatan menyimpan hasil (menang/kalah), dan 
+memngurangi kesempatan jika sudah di gunakan
+kesempatan 3 x
+1 kesempatan 
+-> input pilihan 
+-> pengecekan pilihan 
+-> hasil 
+-> penyimpanan hasil 
